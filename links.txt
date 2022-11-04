@@ -1,0 +1,3 @@
+https://www.researchgate.net/figure/3D-word-embeddings-visualization_fig2_338405739
+
+https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/#:~:text=Positional%20encoding%20describes%20the%20location,item's%20position%20in%20transformer%20models.
